@@ -1419,7 +1419,7 @@ AU=All Unaccepted=全都不正确
 
 <hr>
 
-!["/论用砖.png"]()
+!["./论用砖.png"]()
 
 <hr>
 
