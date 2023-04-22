@@ -1419,4 +1419,8 @@ AU=All Unaccepted=全都不正确
 
 <hr>
 
+!["/论用砖.png"]()
+
+<hr>
+
 最后，分享一个<a href="https://www.luogu.com.cn/paste/1agz1vs7">好东西</a>
